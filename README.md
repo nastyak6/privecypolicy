@@ -1,5 +1,5 @@
 # privecypolicy
-for facebook adds
+for social media posts
 
 This app is used by a single user nastyak6 to automate Facebook posts using n8n.
 I do not collect or store any user data.
