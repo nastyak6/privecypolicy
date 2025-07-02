@@ -1,0 +1,2 @@
+# privecypolicy
+for facebook adds
